@@ -12,7 +12,7 @@ Models.sort_values(by='Score', ascending=False)
 
 ''' 
 Pretty much the entirety of this code was written with the help of online resources and other github libraries 
-as this was one of my very first projects and i had a very little time to complete it :P
+as this was one of my very first projects and i had a few hours to complete it :P
 
 This is a very typical structure for supervised learning with several classes and all that I did was change a 
 few variables to align it with the theme of our ideathon and it actually worked :D
